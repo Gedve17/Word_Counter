@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">word counter</string>
+    <string-array name="count_options">
+        <item>Characters</item>
+        <item>Words</item>
+    </string-array>
+</resources>
